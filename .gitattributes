@@ -1,2 +1,1 @@
-* linguist-vendored
-*.Dart linguist-vendored=false
+*.* linguist-language=Java
